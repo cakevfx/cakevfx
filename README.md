@@ -1,0 +1,5 @@
+- 👋 Hi, I’m James.
+- 👀 I’m interested in Probability & Statistics w/ Applications.
+- 🌱 I’m currently studying in high school.
+- 💞️ I’m looking to collaborate on my first open-source application, relativity.
+- 📫 How to reach me: @officialslide_ on twitter.
